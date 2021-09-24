@@ -2,7 +2,7 @@
 Simple liste sur Symfony en générant un base de donnée et un CRUD en commande ligne.
 Visible sur https://127.0.0.1:8000/post/
 
-Mode d'emploi :
+Mode d'emploi pour créer un CRUD :
 1 - créer une entity
 > php bin/console make:entity
 
