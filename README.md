@@ -4,8 +4,10 @@ Visible sur https://127.0.0.1:8000/post/
 
 Mode d'emploi :
 1 - créer une entity
-php bin/console make:entity
-nom entité : post
+> php bin/console make:entity
+> 
+nom entité : 
+> post
 (faire la même chose pour : titre / contenu / date)
 
 2 - créer un CRUD
